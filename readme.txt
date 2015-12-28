@@ -1,5 +1,4 @@
-hibernate + log4j ¼³Á¤
+hibernate + log4j  ì„¤ì •
 
-¸ŞÀÎ Å¬·¡½º : HibernateTest
-
-Not MAVEN
+ë©”ì¸í´ë˜ìŠ¤ : HibernateTest
+ë©”ì´ë¸ì„ ì‚¬ìš©í•˜ì§€ ì•ŠìŒ.
